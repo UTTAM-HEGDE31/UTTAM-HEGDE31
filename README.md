@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/uttamhegde2" target="blank"><img src="https://img.shields.io/twitter/follow/uttamhegde2?logo=twitter&style=for-the-badge" alt="uttamhegde2" /></a> </p>
 
-- 🌱 I’m currently learning **Btech pursuing in Information Science in Engineering at presidency University(3rd yr)**
+- 🌱 I’m currently pursuing my Btech in Information Science in Engineering at presidency University(3rd yr)**
 
 - 📫 How to reach me **uttamhegde4@gmail.com**
 
